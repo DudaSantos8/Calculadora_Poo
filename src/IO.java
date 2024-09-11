@@ -8,6 +8,5 @@ public class IO {
 
         public void exibirDados(double result){
             System.out.println("O resultado da sua conta é: "+result);
-
         }
 }
